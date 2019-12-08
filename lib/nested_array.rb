@@ -39,6 +39,6 @@ end
 def matrix_update(matrix, row, column, new_value)
   # Update the matrix location at row and column to have the value of new_value
   # Return the updatd matrix
-  ENNET_HOUSE[0,5] = new_value
+  ENNET_HOUSE[0,5]
   
   end
