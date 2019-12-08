@@ -39,5 +39,5 @@ end
 def matrix_update(matrix, row, column, new_value)
   # Update the matrix location at row and column to have the value of new_value
   # Return the updatd matrix
-  matrix_update.new_value(ENNET_HOUSE, ENFIELD_TENNIS_ACADEMY)
+  matrix_update.new_value
 end
